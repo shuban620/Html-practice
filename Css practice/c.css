@@ -1,0 +1,14 @@
+body{
+    background-image: url('');
+}
+.function{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    border: 5px solid greenyellow;
+    background-color: sienna;
+    color: azure;
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;
+}

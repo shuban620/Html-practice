@@ -1,0 +1,202 @@
+#head{
+     position: fixed;
+}
+
+.headsection {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.headsubsection {
+    background-color: white;
+    border: 5px solid white;
+    top: 0;
+    right: 0;
+    left: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.headsubsection:hover {
+    background-color: lightgray;
+    border: 5px solid lightgray;
+}
+
+.headsector {
+    text-decoration: none;
+    color: black;
+}
+
+#features {
+    display: flex;
+    justify-content: center;
+    border: 10px solid white;
+    padding: 20px;
+}
+
+.featuresinfo1 {
+    text-align: center;
+    background-color: rgb(238, 235, 235);
+    border: 10px solid white;
+    padding: 20px;
+}
+
+.featuresinfo2 {
+    text-align: center;
+    background-color: rgb(238, 235, 235);
+    border: 10px solid white;
+    padding: 20px;
+}
+
+.featuresinfo3 {
+    text-align: center;
+    background-color: rgb(238, 235, 235);
+    border: 10px solid white;
+    padding: 20px;
+}
+
+.featuresinfo4 {
+    text-align: center;
+    background-color: rgb(238, 235, 235);
+    border: 10px solid white;
+    padding: 20px;
+}
+
+.featuresinfo5 {
+    text-align: center;
+    background-color: rgb(238, 235, 235);
+    border: 10px solid white;
+    padding: 20px;
+}
+
+#styling1 {
+    color: red;
+}
+
+#styling2 {
+    color: skyblue;
+}
+
+#styling3 {
+    color: palegreen;
+}
+
+#styling4 {
+    color: darkgrey;
+}
+
+#styling5 {
+    color: orange;
+}
+
+.theme {
+    margin: 100px 200px 100px 200px;
+    text-align: center;
+}
+
+.aboutschool {
+    display: flex;
+    justify-content: space-between;
+}
+
+.paragraph {
+    border: 10px solid white;
+    padding: 20px;
+}
+
+#form {
+    margin: 70px !important;
+}
+
+#text {
+    color: yellow !important;
+}
+
+#but {
+    background-color: red !important;
+    padding: 20px;
+    margin: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+
+#but:hover {
+    background-color: blue !important;
+    padding: 20px;
+    margin: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+
+.formsection {
+    background-color: darkblue;
+    border: 50px solid white;
+    padding: 100px;
+    color: white;
+    text-align: center;
+}
+
+
+#foot {
+    background-color: rgb(192, 188, 188);
+    padding: 20px 150px 20px 50px;
+}
+
+.info {
+    background-color: yellow;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 30px;
+}
+
+.infobutton {
+    background-color: red;
+    padding: 10px;
+    border: 1px solid yellow;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.infobutton:hover {
+    background-color: blue;
+    padding: 10px;
+    border: 1px solid yellow;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#furtherdata {
+    display: flex;
+    justify-content: space-between;
+    color: darkblue;
+    text-align: center;
+    border: 40px solid white;
+    padding: 20px 35px 10px 35px;
+}
+
+.image {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.form {
+    border: 10px solid white;
+    border-radius: 10px;
+    margin: 20px;
+}
